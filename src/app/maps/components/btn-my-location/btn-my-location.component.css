@@ -1,0 +1,7 @@
+button {
+    background-color: red;
+    border-color: red;
+    position: fixed;
+    right: 20px;
+    top: 20px;
+}

@@ -1,0 +1,8 @@
+.map-container {
+    background-color: #424d5c;
+    height: 100vh;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    width: 100vw;
+}
